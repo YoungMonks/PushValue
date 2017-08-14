@@ -11,10 +11,6 @@
 
 
 @interface PushValueViewController ()<BackDelegate>
-- (IBAction)firstBtn:(id)sender;
-- (IBAction)secondBtn:(id)sender;
-- (IBAction)thridBtn:(id)sender;
-- (IBAction)fourthBtn:(id)sender;
 
 @end
 
